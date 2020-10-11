@@ -1,0 +1,13 @@
+C:\FH\3. Semester\SWE\-Monster-Trading-Card-Game\mtcg\mtcg\bin\Debug\netcoreapp3.1\mtcg.exe
+C:\FH\3. Semester\SWE\-Monster-Trading-Card-Game\mtcg\mtcg\bin\Debug\netcoreapp3.1\mtcg.deps.json
+C:\FH\3. Semester\SWE\-Monster-Trading-Card-Game\mtcg\mtcg\bin\Debug\netcoreapp3.1\mtcg.runtimeconfig.json
+C:\FH\3. Semester\SWE\-Monster-Trading-Card-Game\mtcg\mtcg\bin\Debug\netcoreapp3.1\mtcg.runtimeconfig.dev.json
+C:\FH\3. Semester\SWE\-Monster-Trading-Card-Game\mtcg\mtcg\bin\Debug\netcoreapp3.1\mtcg.dll
+C:\FH\3. Semester\SWE\-Monster-Trading-Card-Game\mtcg\mtcg\bin\Debug\netcoreapp3.1\mtcg.pdb
+C:\FH\3. Semester\SWE\-Monster-Trading-Card-Game\mtcg\mtcg\obj\Debug\netcoreapp3.1\mtcg.csprojAssemblyReference.cache
+C:\FH\3. Semester\SWE\-Monster-Trading-Card-Game\mtcg\mtcg\obj\Debug\netcoreapp3.1\mtcg.AssemblyInfoInputs.cache
+C:\FH\3. Semester\SWE\-Monster-Trading-Card-Game\mtcg\mtcg\obj\Debug\netcoreapp3.1\mtcg.AssemblyInfo.cs
+C:\FH\3. Semester\SWE\-Monster-Trading-Card-Game\mtcg\mtcg\obj\Debug\netcoreapp3.1\mtcg.csproj.CoreCompileInputs.cache
+C:\FH\3. Semester\SWE\-Monster-Trading-Card-Game\mtcg\mtcg\obj\Debug\netcoreapp3.1\mtcg.dll
+C:\FH\3. Semester\SWE\-Monster-Trading-Card-Game\mtcg\mtcg\obj\Debug\netcoreapp3.1\mtcg.pdb
+C:\FH\3. Semester\SWE\-Monster-Trading-Card-Game\mtcg\mtcg\obj\Debug\netcoreapp3.1\mtcg.genruntimeconfig.cache

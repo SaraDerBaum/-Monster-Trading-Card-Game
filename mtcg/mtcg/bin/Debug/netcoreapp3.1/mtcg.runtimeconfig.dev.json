@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bellu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bellu\\.nuget\\packages"
+    ]
+  }
+}
