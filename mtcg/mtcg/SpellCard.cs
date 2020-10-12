@@ -12,25 +12,18 @@ using System.Text;
 
 namespace mtcg
 {
+    //a spell card can attack with an element based spell (again fire, water, normal) which is either
 
     class SpellCard : Card
     {
 
-        private string name;
-        private int damage;
-        private string elementTxpe;
-
-        public SpellCard(string name, int damage, string elementTxpe)
-        {
-            this.name = name;
-            this.damage = damage;
-            this.elementTxpe = elementTxpe;
-        }
-
-
         public void attack()
         {
-
+            Console.WriteLine("Spell is attacking you ");
         }
+
     }
+        
+
+    
 }

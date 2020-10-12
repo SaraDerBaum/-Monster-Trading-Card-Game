@@ -10,7 +10,7 @@ namespace mtcg
     class Stack
     {
         //1 package of cards (5) randomly given to the user
-        private Card[5] packageOfCards;
+        private Card[] packageOfCards;
         //all cards on the stack
         private Card[] stack;
 

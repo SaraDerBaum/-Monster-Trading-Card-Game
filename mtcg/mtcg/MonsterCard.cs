@@ -3,6 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
+//card consist of a name and multiple attributes (damage, element type).
+//card is either a spell card or a monster card.
+
 
 namespace mtcg
 
@@ -12,20 +15,9 @@ namespace mtcg
 
     class MonsterCard : Card
     {
-
-        private string name;
-        private int damage;
-        private string elementTxpe;
-
-        public MonsterCard(string name, int damage, string elementTxpe)
-        {
-            this.name = name;
-            this.damage = damage;
-            this.elementTxpe = elementTxpe;
-        }
         public void attack()
         {
-            
+            Console.WriteLine("Monster is attacking you ");
         }
     }
 }
